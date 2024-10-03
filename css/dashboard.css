@@ -1,0 +1,133 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    margin-top: 20px;
+}
+h1.buggy{margin-top:0px !important;}
+
+table {
+    border-collapse: collapse;
+    width: 80%;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+tr:hover {
+    background-color: #ddd;
+}
+.table-responsive {
+    height: 500px !important;
+}
+.table {
+    margin: 0;
+    width: 100% !important;
+}
+
+/* Add this to your CSS file */
+.category-gap {
+    background-color: #f0f8ff; /* Light blue background */
+    border: 1px solid #ccc; /* Light grey border */
+    padding: 10px; /* Some padding */
+    margin: 5px 0; /* Space between items */
+    font-family: Arial, sans-serif; /* Font styling */
+    font-size: 14px; /* Font size */
+    border-radius: 5px; /* Rounded corners */
+}
+
+div#analysisResults {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.row {
+    display: -ms-flexbox;
+    display: block;
+}
+.a-cat {
+    background-image: -moz-linear-gradient(90deg, #7e4dbf 0%, #3f45fb 100%);
+    background-image: -webkit-linear-gradient(90deg, #7e4dbf 0%, #3f45fb 100%);
+    background-image: -ms-linear-gradient(90deg, #7e4dbf 0%, #3f45fb 100%);
+    margin: 10px;
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+.analyze-gap {
+    text-align: center !important;
+    width: 130px;
+    display: flex;
+    color: white;
+    justify-content: center;
+}
+.dash-width {
+    margin-top: 30px;
+}
+button#analyzeButton {
+    margin-bottom: 20px;
+}
+.main-content {
+    width: 1100px!important;
+}
+div#heading_kg {
+    display: block !important;
+    width: 100%;
+    padding-bottom: 10px;
+    font-weight: 400;
+    font-size: 30px;
+    color:#333333;
+}
+.row.m-t-25 {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.overview-item.overview-item--c1,
+.overview-item.overview-item--c2,
+.overview-item.overview-item--c3,
+.overview-item.overview-item--c4 {
+    height: 180px;
+}
+.col-lg-3 {
+    -ms-flex: 0 0 25%;
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+
+.overview-item--c1 {
+    background-image: -moz-linear-gradient(90deg, #7e4dbf 0%, #3f45fb 100%);
+    background-image: -webkit-linear-gradient(90deg, #7e4dbf 0%, #3f45fb 100%);
+    background-image: -ms-linear-gradient(90deg, #7e4dbf 0%, #3f45fb 100%);
+}
+.overview-item--c3 {
+    background-image: -moz-linear-gradient(90deg, #7e4dbf 0%, #3f45fb 100%);
+    background-image: -webkit-linear-gradient(90deg, #7e4dbf 0%, #3f45fb 100%);
+    background-image: -ms-linear-gradient(90deg, #7e4dbf 0%, #3f45fb 100%);
+}
+.container-fluid {
+    width: 100%;
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+    margin-right: auto;
+    margin-left: auto;
+}

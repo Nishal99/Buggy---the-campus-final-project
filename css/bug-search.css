@@ -1,0 +1,120 @@
+/***********suggestion div questions and answers ***********/
+.ques_div-container {
+    background-color: #4272d7;
+    border-radius: 20px;
+    line-height: 26px;
+    width: 100%;
+    max-width: 750px;
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+    margin: 5px auto;
+    padding: 5px;
+    border: 1px solid #4272d7;
+}
+.ans_div {
+    background-color: #efefef;
+    border-radius: 9px;
+    line-height: 26px;
+    width: 100%;
+    max-width: 750px;
+    color: #000000;
+    padding: 10px 20px;
+    text-align: left;
+    margin: 5px auto;
+    border: 1px solid #cecece;
+}
+/*******autofill******** */
+
+/****index.php stylings********** */
+.search-main-container{
+    width:100%;
+    height: auto;
+}
+.search-container {
+    background-color: #ffffff;
+    padding: 20px;
+    text-align: center;
+    margin-top: 145px;
+}
+
+h1.head-buggy {
+    margin: 0;
+    padding-bottom: 20px;
+    font-size: 35px;
+    color: #4272d7;
+    font-weight:normal;
+}
+input#searchInput[type="text"] {
+    padding: 10px;
+    font-size: 16px;
+    width: 100%;
+    max-width: 500px;
+    margin-right: 10px;
+    border-radius: 3px;
+    background-color: #ffffff;
+    border-radius: .5rem;
+    border: 0.125rem solid #efefef;
+    outline: none;
+}
+
+button.search-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #4272d7;
+    color: #fff;
+    border: none;
+    width: 100px;
+    border-radius: 0.5rem !important;
+}
+
+button.search-button:hover {
+    background-color: #3868cd;
+}
+/****bug-search.php stylings end********** */
+
+/**********form */
+.hello-user{
+    font-size:35px;
+    color: #000000;
+    font-weight:normal;
+}
+
+.search-button button{
+    width: 100%;
+    background-color: #4272d7;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.search-button button:hover {
+    background-color: #3868cd;
+}
+/**********form End*/
+
+.page-wrapper {
+    overflow: hidden;
+    background: #ffffff !important;
+    padding-bottom: 8vh;
+    height: 100% !important;
+}
+
+.menu-sidebar {
+    width: 300px;
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    background: #fff !important;
+    overflow-y: auto;
+    border: 1px solid gainsboro !important;
+    box-shadow: 5px 5px 5px gainsboro !important;
+}
+div#suggestions {
+    padding-top: 16px;
+}

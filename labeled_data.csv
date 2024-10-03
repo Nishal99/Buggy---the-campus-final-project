@@ -1,0 +1,87 @@
+query,task
+How can I center a div horizontally and vertically using CSS?,CSS Flexbox
+What is the difference between inline and block elements in HTML?,HTML Basics
+How can I create a responsive navigation bar in CSS?,Responsive Design
+What is the CSS box-sizing property used for?,CSS Properties
+How can I make an image responsive in CSS?,Responsive Design
+"What are CSS preprocessors, and why are they used?",CSS Preprocessors
+How can I vertically align text within a div using CSS?,CSS Flexbox
+What is the CSS float property used for?,CSS Properties
+How can I create a sticky header in CSS?,CSS Positioning
+What is the purpose of CSS vendor prefixes?,CSS Properties
+How can I hide an element in CSS without using display: none;?,CSS Properties
+What is the difference between class and id in HTML?,HTML Basics
+How can I create a dropdown menu in CSS?,CSS Interactivity
+What is the CSS position property used for?,CSS Positioning
+How can I create a gradient background in CSS?,CSS Backgrounds
+How can I vertically center an element using CSS?,CSS Flexbox
+What is the CSS z-index property used for?,CSS Positioning
+How can I create a responsive grid layout in CSS?,CSS Grid
+How can I apply CSS styles to only the first letter of a paragraph?,CSS Selectors
+What is the CSS transition property used for?,CSS Animations
+How can I create a fixed footer in CSS?,CSS Positioning
+What is the CSS overflow property used for?,CSS Properties
+How can I style alternate rows in a table using CSS?,CSS Selectors
+How can I create a border around an element in CSS?,CSS Borders
+What is the purpose of CSS media queries?,Responsive Design
+How can I create a responsive image gallery in CSS?,Responsive Design
+How can I create rounded corners for an element in CSS?,CSS Borders
+What is the CSS flexbox layout model used for?,CSS Flexbox
+How can I horizontally align text within a div using CSS?,CSS Properties
+What is the CSS background shorthand property used for?,CSS Backgrounds
+How can I create a fixed sidebar navigation in CSS?,CSS Positioning
+What is the purpose of CSS resets?,CSS Basics
+How can I create a dropdown menu without using JavaScript?,CSS Interactivity
+How can I style links differently based on their state in CSS?,CSS Selectors
+What is the CSS opacity property used for?,CSS Properties
+How can I create a slideshow/carousel in CSS?,CSS Animations
+What is the purpose of CSS pseudo-elements?,CSS Selectors
+How can I create a sticky sidebar in CSS?,CSS Positioning
+How can I create a responsive multi-level dropdown menu in CSS?,Responsive Design
+What is the purpose of the CSS transition-timing-function property?,CSS Animations
+How can I create a diagonal border effect in CSS?,CSS Borders
+How can I create a responsive sticky footer in CSS?,Responsive Design
+How can I create a responsive full-width image header in CSS?,Responsive Design
+How can I style the placeholder text of an input field in CSS?,CSS Selectors
+What is the CSS transform property used for?,CSS Transformations
+How can I create a responsive card layout in CSS?,Responsive Design
+What is the purpose of the CSS flex-grow property?,CSS Flexbox
+How can I create a gradient text effect in CSS?,CSS Text Effects
+How can I create a fixed background image in CSS?,CSS Backgrounds
+What is the CSS will-change property used for?,CSS Performance
+How can I create a responsive sticky header in CSS?,Responsive Design
+What is the CSS pointer-events property used for?,CSS Properties
+How can I create a transparent background color in CSS?,CSS Backgrounds
+What is the purpose of CSS flex-wrap property?,CSS Flexbox
+How can I create a responsive equal-height column layout in CSS?,Responsive Design
+What is the CSS outline property used for?,CSS Borders
+How can I create a responsive navigation menu with dropdowns in CSS?,Responsive Design
+What is the CSS backface-visibility property used for?,CSS Transformations
+How can I create a responsive two-column layout in CSS?,Responsive Design
+What is the purpose of the CSS transform-origin property?,CSS Transformations
+How can I create a responsive slideshow with CSS animations?,Responsive Design
+What is the CSS clip-path property used for?,CSS Transformations
+How can I create a responsive image carousel in CSS?,Responsive Design
+What is the purpose of the CSS content property?,CSS Selectors
+How can I create a responsive tabbed interface in CSS?,Responsive Design
+What is the CSS currentColor keyword used for?,CSS Properties
+How can I create a responsive sticky footer with a fixed sidebar in CSS?,Responsive Design
+What is the purpose of the CSS object-fit property?,CSS Properties
+How can I create a responsive accordion menu in CSS?,Responsive Design
+What is the CSS unicode-bidi property used for?,CSS Properties
+How can I create a responsive timeline layout in CSS?,Responsive Design
+What is the purpose of the CSS filter property?,CSS Effects
+How can I create a responsive hamburger menu in CSS?,Responsive Design
+What is the CSS mix-blend-mode property used for?,CSS Effects
+How can I create a responsive pricing table in CSS?,Responsive Design
+What is the purpose of the CSS text-decoration property?,CSS Text Effects
+How can I create a responsive image grid with hover effects in CSS?,Responsive Design
+What is the CSS scroll-behavior property used for?,CSS Properties
+How can I create a responsive parallax scrolling effect in CSS?,Responsive Design
+What is the CSS shape-outside property used for?,CSS Effects
+How can I create a responsive blog layout in CSS?,Responsive Design
+What is the CSS user-select property used for?,CSS Properties
+How can I create a responsive portfolio grid in CSS?,Responsive Design
+What is the CSS writing-mode property used for?,CSS Properties
+How can I create a responsive product grid in CSS?,Responsive Design
+What is the CSS zoom property used for?,CSS Properties

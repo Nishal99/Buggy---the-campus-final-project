@@ -1,0 +1,32 @@
+.feedback-display {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 5px 10px;
+}
+
+.feedback-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.feedback-item img {
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.feedback-item .feedback-content {
+    flex: 1;
+}
+
+.feedback-item .feedback-rating {
+    display: flex;
+}
+
+.feedback-item .feedback-rating .star {
+    color: #f0c040;
+}
